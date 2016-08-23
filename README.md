@@ -38,7 +38,7 @@ Once compiled, look for your binary in the 'dist' directory. Run it as needed.
 
 Useful Options:
 
--F Put everything into one executable binary file\n
+-F Put everything into one executable binary file/n
 -D Put everything into one directory\n
 -n Specify binary's filename\n
 -c Compiled code runs within a console that pops up.\n
