@@ -3,10 +3,9 @@ A template for creating Python programs that are delivered with a Pyinstaller bi
 
 --------------------------------------------------------------------------------------
 
-Author: Woverdude
-Purpose: So that I don't have to start from scratch every damn time I need to use 
+Author: Woverdude\n
+Purpose: So that I don't have to start from scratch every damn time I need to use pyinstaller on a project.\n
 
-pyinstaller on a project.
 Github:
 
 What is Pyinstaller?
@@ -39,11 +38,11 @@ Once compiled, look for your binary in the 'dist' directory. Run it as needed.
 
 Useful Options:
 
--F Put everything into one executable binary file
--D Put everything into one directory
--n Specify binary's filename
--c Compiled code runs within a console that pops up.
--d Compiled code will run in debug mode.
+-F Put everything into one executable binary file\n
+-D Put everything into one directory\n
+-n Specify binary's filename\n
+-c Compiled code runs within a console that pops up.\n
+-d Compiled code will run in debug mode.\n
 
 Documentation:
 
